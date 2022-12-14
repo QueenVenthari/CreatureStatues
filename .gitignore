@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+CreatureStatues.sln.DotSettings.user
+.idea
+.vs
+/assets/assets.manifest
+/assets/creaturestatues.manifest
+/assets/assets
